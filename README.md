@@ -1,16 +1,16 @@
-### Hi there 👋
+ ### Hi there 👋
+       Bryan
+       
+       ### FullStack Dev.
+       ### Designer
+       ### Unity
 
-<!--
-**mgbryan90/mgbryan90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgbryan90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,javascript,react,unity,cs,github,linux" />
+  </a>
+</p>
