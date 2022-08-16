@@ -2,7 +2,8 @@
  
  ![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large) <br>
  ![Anurag's GitHub stats](https://img.shields.io/github/followers/mgbryan90?logo=github&style=for-the-badge) 
- 
+
+
  
        Bryan
        
@@ -25,3 +26,15 @@
 <a href="https://github.com/mhatw/organizable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=organizable" />
 </a>
+
+### Soft Skills 👋
+
+<ul>
+ <li>Leader</li>
+ <li>Team player</li>
+ <li>Loyalty</li>
+ <li>Perseverance</li>
+ <li>Discipline</li>
+ <li>Versatile</li>
+ <li>Receptive</li>
+</ul>
