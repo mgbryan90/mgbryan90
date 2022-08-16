@@ -1,11 +1,13 @@
  ### Hi there 👋
+ 
+ ![Anurag's GitHub stats](https://img.shields.io/github/followers/mgbryan90?logo=github&style=for-the-badge)
+ 
        Bryan
        
        ### FullStack Dev.
        ### Designer
        ### Unity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgbryan90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills
 
@@ -14,3 +16,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,ruby,rails,javascript,react,unity,cs,github,linux" />
   </a>
 </p>
+
+### See my projects 👋
+#### JavaScript
+
+<a href="https://github.com/mhatw/organizable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=organizable" />
+</a>
