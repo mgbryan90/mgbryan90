@@ -20,12 +20,6 @@
   </a>
 </p>
 
-### See my projects 👋
-#### JavaScript
-
-<a href="https://github.com/mhatw/organizable">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhatw&repo=organizable" />
-</a>
 
 ### Soft Skills 👋
 
