@@ -16,8 +16,8 @@
 </p>
 
 <h5 align="center">
-  <code>![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)</code>
-</h5>
+  ![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)
+ </h5>
 
 
  
