@@ -16,7 +16,7 @@
 </p>
 
 <h5 align="center">
-  <img src="https://www.codewars.com/users/BryanM/badges/large" alt = "Code Wars">![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)</img>
+  <img src="https://www.codewars.com/users/BryanM/badges/large" alt = "Code Wars"/>
  </h5>
 
 
