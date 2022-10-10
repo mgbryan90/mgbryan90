@@ -4,7 +4,7 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/bryanmendozaguerreros" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  //<code><a href="https://www.instagram.com/christhiansm/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/christhiansm/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 
@@ -12,19 +12,17 @@
   Hi, I'm Bryan Mendoza Guerreros, Computer Engineer and a passionate Fullstack JS Developer from Perú
   <br>
   <br>
-  🎓 I graduated from the Computer Engineering Department of La Universidad Nacional Federico Villareal
+  🎓 I graduated from the Computer Engineering Department of Universidad Nacional Federico Villareal
   <br>
   💻 I love teaching and continuous learning
   <br>
   📫 How to reach me: <a href="mailto: mgbryan90@hotmail.com">mgbryan90@hotmail.com</a>
 </p>
- 
- 
- 
- 
+
+<h5 align="center">
  ![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large) <br>
  ![Anurag's GitHub stats](https://img.shields.io/github/followers/mgbryan90?logo=github&style=for-the-badge) 
-
+</h5>
 
  
        Bryan
