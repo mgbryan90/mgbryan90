@@ -15,11 +15,12 @@
   📫 How to reach me: <a href="mailto: mgbryan90@hotmail.com">mgbryan90@hotmail.com</a>
 </p>
 
+<h5 align="center">
+  <code>![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)</code>
+</h5>
 
-  <span>      *      </span>![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)
 
-
-
+ 
        Bryan
        
        ### FullStack Dev.
