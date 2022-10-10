@@ -15,9 +15,9 @@
   📫 How to reach me: <a href="mailto: mgbryan90@hotmail.com">mgbryan90@hotmail.com</a>
 </p>
 
-<p align="center">
- ![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)
-</p>
+
+ ------------![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)-------------
+
 
 
  
