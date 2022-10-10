@@ -16,7 +16,7 @@
 </p>
 
 
- ![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large) <br>
+ ![Anurag's GitHub stats](https://www.codewars.com/users/BryanM/badges/large)
  ![Anurag's GitHub stats](https://img.shields.io/github/followers/mgbryan90?logo=github&style=for-the-badge) 
 
 
