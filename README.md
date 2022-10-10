@@ -1,12 +1,12 @@
  ### Hi there 👋
  
  <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=5D5AF7&background=FF060600&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bryan+Mendoza%C3%BA+Guerreros;Fullstack+JS+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=5D5AF7&background=FF060600&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Bryan+Mendoza+Guerreros;Fullstack+JS+Developer" alt="Typing SVG" /></a>
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/christhiansilupu/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/christhiansm/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/bryanmendozaguerreros" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  //<code><a href="https://www.instagram.com/christhiansm/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 
